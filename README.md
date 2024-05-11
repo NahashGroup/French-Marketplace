@@ -1,4 +1,4 @@
-LaraMonero open-source Marketplace.
+LaraMonero open-source darknet Marketplace.
 
 All files for LaraMonero Marketplace is in LaraMoneroCompressed.zip.
 
